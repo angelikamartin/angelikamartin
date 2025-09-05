@@ -6,6 +6,8 @@ Ich verwende dieses Repository für Übungen und Aufgaben im Zusammenhang mit me
 
 www.fh-swf.de
 
+![Angelikas Statistiken](https://github-readme-stats.vercel.app/api?username=angelikamartin&show_Icons=true&Theme=tokyonight)
+
 <!--
 **angelikamartin/angelikamartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
