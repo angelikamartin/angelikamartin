@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+# Verwendung dieses Repositorys
+
+Ich verwende dieses Repository für Übungen und Aufgaben im Zusammenhang mit meinem Studium "Angewandte Künstliche Intelligenz" an der FH Südwestfalen. 
+
+www.fh-swf.de
+
 <!--
 **angelikamartin/angelikamartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
